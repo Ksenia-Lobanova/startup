@@ -1,0 +1,13 @@
+.btn-blue {
+    background-color: royalblue; 
+    padding: 12px 17px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white; 
+
+.btn-blue: hover { 
+    background-color: ghostwhite;
+    color: royalblue;
+}
